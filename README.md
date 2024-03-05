@@ -3,7 +3,7 @@
 
 ## System Log (Abbreviated)
 
-👋  Greetings. Online designation: theamanstark
+👋  Greetings Human!! I’m Aman Singh, known by netizens as `theamanstark`.
 
 📈  Completed 18 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
 
