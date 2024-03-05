@@ -1,6 +1,6 @@
 ![Minimalistic Banner](https://raw.githubusercontent.com/theamanstark/theamanstark/assets/banner.png)
 
-## 💽 profile/theamanstark
+# 💽 profile/theamanstark
 
 👋  Greetings. Online designation: theamanstark
 
