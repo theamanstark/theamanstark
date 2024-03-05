@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aman Singh, known by netizens as `theamanstark`.
 - ✨ Somehow I turned 18 this year—quite a serious number, don't you think? 😶‍🌫️
+- ❤️ I have a passion for painting and cooking. I have an aptitude for robotics and have constructed several robots throughout the years. In terms of academics, I find the realm of math to be quite interesting, with parabolas, shapes, trigonometry, and calculus.
 - 🕸️ My website is [amanstark.com](https://www.amanstark.com). It monitors your mouse movement and user behavior based on how you interact with the website, so use it at your own risk.
 - 👀 I’m interested in Generative Pre-trained Transformer.
 - 🌱 I’m currently learning Go.
