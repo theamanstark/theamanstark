@@ -15,6 +15,6 @@
 
 👀  Current Explorations: Generative Pre-trained Transformers.
 
-🌱  Learning Protocols:  Engaging with Go.
+🌱  Learning Protocols:  Engaging with Javascript & Python 🐍
 
 📫  Initiate Contact: mail@amanstark.com | Discord: [@theamanstark](https://imstark.link/discord) 
