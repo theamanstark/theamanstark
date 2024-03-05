@@ -1,5 +1,7 @@
 # 💽 Aman Singh (`theamanstark`)
 
+![Minimalistic Banner](https://raw.githubusercontent.com/theamanstark/theamanstark/assets/banner.png)
+
 ## System Log (Abbreviated) 
 
 👋  Greetings. Online designation: theamanstark
