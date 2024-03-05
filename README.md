@@ -1,17 +1,12 @@
-## <[ TRANSCODE SEQUENCE INITIATED ]>
-
-* **Designation:** Aman Singh
-* **Online Alias:** theamanstark
-* **Temporal Anomaly:** Age register malfunction. Current cycle count: 18 (subjective) 
-* **Cognitive Passions:** Visual expression (analog mode), culinary code, automatons 
-   * **Current Subroutine:** [Bionic Project Log](https://imstark.link/bionic)  
-   * **Auxiliary Protocols:** Mathematical topologies (parabolic trajectories, geometric theorems, calculus) 
-* **Comm Node:** [amanstark.com]([https://www.amanstark.com]) 
-   * **[WARNING]:** Behavioral tracking algorithms in effect. Proceed with curiosity. 
-* **Research Vector:** Generative Pre-trained Transformers (GPT)
-* **Skill Acquisition:** Go language assimilation in progress
-* **Contact Directives:**
-   *  mail@amanstark.com 
-   *  [Discord Channel Access Request](https://imstark.link/discord) 
-
-## <[ TRANSCODE SEQUENCE TERMINATED ]> 
+***
+### BEEP BOOP. HUMAN DETECTED. 
+* **Name:** Aman Singh (Online Handle: theamanstark)
+* **Age:** 18 Earth Cycles. Is that a lot? Asking for a friend...
+* **I Like:** Painting, cooking, building robots (Check out my [Bionic Project](https://imstark.link/bionic))...and MATH! 
+* **Website:** [amanstark.com](https://www.amanstark.com) *USE CAUTION: MAY TRACK YOUR KEYSTROKES*   
+* **Current Mission:** Understanding these GPT things
+* **Learning Mode:** Attempting to speak Go
+* **How to Find Me:** 
+    *  mail@amanstark.com 
+    *  Discord (Slide into my DMs if you dare)
+***
