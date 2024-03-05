@@ -1,4 +1,4 @@
-# 👨‍💻 Aman Singh (`theamanstark`)
+# ✨ Aman Singh (`theamanstark`)
 
 **ASCII ART HERE** 
 
@@ -6,9 +6,11 @@
 
 👋  Greetings. Online designation: theamanstark.
 
-✨  Completed 18 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
+📈  Completed 18 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
 
-❤️  Primary Subroutines: Painting, Organics Processing (Cooking), Robotics. 🤖 Check latest project [here](https://imstark.link/bionic). Knowledge Protocols: Drawn to mathematical systems. 
+❤️  Primary Subroutines: Painting, Cooking, Robotics. 🤖 Check latest project [here](https://imstark.link/bionic). 
+
+👻  Knowledge Protocols: Drawn to mathematical systems, like parabola, shapes, trignometry and calculus ✖️➕➖🟰➗
 
 🕸️  [amanstark.com](https://www.amanstark.com)  ⚠️  Behavioral analysis protocols active. Proceed with caution. 
 
