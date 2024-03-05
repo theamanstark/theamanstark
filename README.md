@@ -1,13 +1,19 @@
 # 👨‍💻 Aman Singh (`theamanstark`)
 
-✨ Age: 18 cycles. Significance unknown. 
+**ASCII ART HERE** 
 
-❤️ Painting. Cooking. Robotics. 🤖 Academics: Drawn to the elegance of mathematics.
+## System Log (Abbreviated) 
 
-🕸️ [amanstark.com](https://www.amanstark.com) (Warning: Biometric analysis active) 
+👋  Greetings. Online designation: theamanstark.
 
-👁️ Interests: GPTs, the nature of consciousness 
+✨  Completed 18 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
 
-🌱 Currently exploring the depths of Go.
+❤️  Primary Subroutines: Painting, Organics Processing (Cooking), Robotics. 🤖 Check latest project [here](https://imstark.link/bionic). Knowledge Protocols: Drawn to mathematical systems. 
 
-📫 Contact: mail@amanstark.com | Discord: [@theamanstark](https://imstark.link/discord) 
+🕸️  [amanstark.com](https://www.amanstark.com)  ⚠️  Behavioral analysis protocols active. Proceed with caution. 
+
+👀  Current Explorations: Generative Pre-trained Transformers.
+
+🌱  Learning Protocols:  Engaging with Go.
+
+📫  Initiate Contact: mail@amanstark.com | Discord: [@theamanstark](https://imstark.link/discord) 
