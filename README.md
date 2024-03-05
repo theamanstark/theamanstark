@@ -1,7 +1,7 @@
 
 ![Minimalistic Banner](https://raw.githubusercontent.com/theamanstark/theamanstark/assets/banner.png)
 
-## System Log (Abbreviated)
+## System Log (Abbreviated) ;>
 
 👋  Greetings Human!! I’m Aman Singh, known by netizens as `theamanstark`.
 
