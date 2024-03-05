@@ -1,13 +1,14 @@
-### // IDENTITY FILE: theamanstark
+**// AMAN SINGH  ::  ONLINE HANDLE: theamanstark**
 
-* **Age:** 18 cycles (calibration pending)
-* **Interests:** Visual arts, culinary code, robotics, mathematics
-    * **Project Log:** [Bionic](https://imstark.link/bionic)  
-* **WARNING:** [amanstark.com](https://www.amanstark.com) monitors system activity. 
-* **Focus:** GPT research
-* **Learning:** Go
-* **Contact:** 
+* Cycle Count: 18 (Calibration Uncertain) 
+* Core Directives: Visual Art, Culinary Code, Robotics, Mathematical Theory
+    * [Project Log: Bionic] (https://imstark.link/bionic)
+* Interface: [amanstark.com]([https://www.amanstark.com]) 
+    *  **[Caution]:** Behavior Analysis Protocols Active 
+* Research Focus: GPT Systems
+* Skill Acquisition: Go 
+* Contact:
     * mail@amanstark.com
-    * Discord (access code required)
+    * Discord Channel (Request Access) 
 
-### // END FILE 
+**// PROFILE END  **
