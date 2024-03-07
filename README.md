@@ -9,7 +9,7 @@
 
 ❤️  Primary Subroutines: Painting, Cooking, Robotics. 🤖 Check latest project [here](https://imstark.link/bionic). 
 
-👻  Knowledge Protocols: Drawn to mathematical systems like parabola, shapes, trignometry and calculus ✖️➕➖🟰➗
+👻  Knowledge Protocols: Drawn to mathematical systems like parabola, shapes, trignometry and calculus ➗✖️➕➖
 
 🕸️  Website: [amanstark.com](https://www.amanstark.com)  ⚠️  Behavioral analysis protocols active. Proceed with caution ‼️ 
 
