@@ -11,7 +11,7 @@
 
 👻  Knowledge Protocols: Drawn to mathematical systems like parabola, shapes, trignometry and calculus ➗✖️➕➖
 
-🕸️  Website: [amanstark.com](https://www.amanstark.com)  ⚠️  Behavioral analysis protocols active. Proceed with caution ‼️ 
+🕸️  Website: [amanstark.com](https://www.amanstark.com)  ⚠️  Behavioral analysis protocols active. Proceed with caution ‼️ (Currently under construction, 302 redirected 🥲)
 
 👀  Current Explorations: Generative Pre-trained Transformers.
 
