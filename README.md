@@ -17,4 +17,4 @@
 
 🌱  Learning Protocols:  Engaging with Javascript & Python 🐍
 
-📫  Initiate Contact: mail@amanstark.com | Discord: [@theamanstark](https://imstark.link/discord) 
+📫  Initiate Contact: git@amanstark.com | Discord: [@theamanstark](https://imstark.link/discord) 
