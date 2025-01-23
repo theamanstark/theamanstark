@@ -5,7 +5,7 @@
 
 👋  Greetings Human!! I’m Aman Singh, known by netizens as `theamanstark`.
 
-📈  Completed 18 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
+📈  Completed 19 iterations of my life. Significance: Under Evaluation. 😶‍🌫️
 
 ❤️  Primary Subroutines: Painting, Cooking, Robotics. 🤖 Check latest project [here](https://imstark.link/bionic). 
 
